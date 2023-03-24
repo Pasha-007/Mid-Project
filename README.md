@@ -1,5 +1,10 @@
 Pomodoro Task Manager
 
+![Screenshot 2023-03-24 at 17 08 31](https://user-images.githubusercontent.com/103258353/227505811-2ff14de7-2676-4ac0-8a9f-ab2b695b66cc.png)
+
+![Screenshot 2023-03-24 at 17 08 27](https://user-images.githubusercontent.com/103258353/227505848-6d705969-5d31-4760-85db-d502da2064b4.png)
+
+
 Pomodoro Task Manager is a web application that allows users to manage their tasks and track their productivity using the Pomodoro Technique. This application is built using Spring Boot and Thymeleaf.
 
 Installation
