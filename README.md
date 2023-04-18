@@ -26,6 +26,13 @@ To delete a task, click the "Delete" button next to the task you want to delete.
 
 To access the timer feature, click the "Timer" button in the navigation bar. The timer will automatically start and will count down for 25 minutes. After 25 minutes, the timer will reset and the user can take a break.
 
+Swagger API Documentation can be seen on http://localhost:8080/swagger-ui/index.html
+
+<img width="567" alt="Screenshot 2023-04-18 at 12 34 07" src="https://user-images.githubusercontent.com/103258353/232691686-31547b18-b711-4eb2-b268-7ad08afce9f5.png">
+
+<img width="1440" alt="Screenshot 2023-04-18 at 12 33 29" src="https://user-images.githubusercontent.com/103258353/232691692-39a55c19-97d7-4255-9649-c6d7cf10f1e7.png">
+
+
 
 Contact
 If you have any questions or issues with this application, please contact us at mohammedmuntahaa.khan@alatoo.edu.kg
